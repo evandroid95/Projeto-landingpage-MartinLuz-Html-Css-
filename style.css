@@ -1,0 +1,449 @@
+
+
+*{
+    box-sizing: border-box;
+    margin: 0px;
+    padding: 2px;
+
+}
+
+
+html,body{align-items: center;}
+
+.header{
+
+    background-color: #0B27FA;
+    padding: 95px 2px;
+    position: absolute;
+    width: 100%;
+    height: 450px;
+    left: 0px;
+    top: 0px;
+} 
+
+
+
+.my-4 img{
+        
+margin-right:80em;
+position: absolute;
+left: 167px;
+top: 78px;
+height: 32PX;
+}
+
+
+.ebook{
+
+position: absolute;
+width: 107px;
+height: 40px;
+left: 162px;
+top:151px;
+font-family: DM Sans;
+font-style: normal;
+font-weight: bold;
+font-size: 24px;
+line-height: 40px;
+letter-spacing: 0.15em;
+text-transform: uppercase;
+
+color: #00BA91;
+
+
+
+
+}
+
+p{
+position: absolute;
+width: 544px;
+height: 205px;
+top: 204px;
+left: 161px;
+font-family: DM Sans;
+font-style: normal;
+font-weight: bold;
+font-size: 40px;
+line-height: 52px;
+color: #FFFFFF;
+
+}
+
+
+
+.w-full {
+
+position: absolute;
+width: 450px;
+height: 520px;
+left: 159px;
+top: 518px;
+font-family: DM Sans;
+font-style: normal;
+font-weight: normal;
+font-size: 18px;
+line-height: 32px;
+color: #444548;
+
+} 
+
+
+
+/* 
+.{
+position: absolute;
+width: 544px;
+height: 205px;
+left: 159px;
+top: 204px;
+font-family: DM Sans;
+font-style: normal;
+font-weight: bold;
+font-size: 40px;
+line-height: 52px;
+color: #FFFFFF;
+
+} */
+
+
+.w-full2{
+
+margin-top:25px;
+position: absolute;
+width: 449px;
+height: 85px;
+left: 832px;
+top: 518px;
+font-family: 'DM Sans', sans-serif;
+font-style: normal;
+font-weight: bold;
+font-size: 16px;
+
+color: #021B51;
+}
+
+
+
+
+
+
+.w-full3{
+
+margin-top:-35px;
+position: absolute;
+width: 449px;
+height: 85px;
+left: 159px;
+top: 820px;
+font-family: DM Sans;
+font-style: normal;
+font-weight: normal;
+font-size: 18px;
+line-height: 32px;
+color: #444548;}
+
+
+
+
+.w-full4{
+
+margin-top:-35px;
+position: absolute;
+width: 449px;
+height: 85px;
+left: 159px;
+top: 1030px;
+font-family: DM Sans;
+font-style: normal;
+font-weight: normal;
+font-size: 18px;
+line-height: 32px;
+color: #444548;}
+
+
+
+@media screen and (max-width:768px){
+
+
+  .header{  height: 550px;  
+            width: 600px;}
+ 
+
+ .conteudo{margin-top:25px;
+           width: 390px;}
+
+.col-12{width: 550px;
+        align-items: center;}
+
+.ebook{margin-top: 10px;
+       margin-left: -90px;}
+
+.w-full{margin-top: 105px;
+        margin-left: -90px;}
+
+ .w-full3{margin-top: 85px;
+        margin-left:  -90px;}
+
+.w-full4{margin-top: 85px;
+         margin-left: -90px;}
+
+.info h1{margin-top: 225px;
+         margin-left: -90px;}
+
+  p{ margin-top: 125px;
+     margin-left: -90px;}
+
+ .infolink img{margin-top: 205px;
+               margin-left: -70px;}
+
+.botãoconhecer{margin-top: 225px;
+               margin-left: -70px;} 
+
+
+}
+
+
+
+label {
+    display: inline-block;
+    margin-bottom: 0rem!important;
+}
+
+
+
+.right p{
+position: absolute;
+width: 449px;
+height: 85px;
+left: 850px;
+top: 518px;
+
+font-style: normal;
+font-weight: bold;
+font-size: 20px;
+line-height: 40px;
+color: #021B51;
+}
+
+
+.col-12 {
+
+padding-right: 23px !important;
+    padding-top: 23px !important;
+}
+
+.form-label
+{ font-family: 'DM Sans', sans-serif !important;}
+
+
+
+
+.info h1{
+
+position: absolute;
+width: 157px;
+height: 46px;
+left: 164px;
+top: 1106px;
+font-family: DM Sans;
+font-style: normal;
+font-weight: normal;
+font-size: 16px;
+line-height: 180%;
+color: #021B51;
+}
+
+
+main{
+    height: 1293px;
+width: 1440px;
+left: -1609px;
+top: -1779px;
+border-radius: 0px;
+align-items: center;
+
+}
+
+
+.botãoconhecer{
+
+position: absolute;
+left: 455px;
+right: 0%;
+top: 1100px;
+bottom: 0%;
+font-family: DM Sans;
+}
+
+
+
+
+.infolink img{
+
+position: absolute;
+left: 390px;
+right: 0%;
+top: 1100px;
+bottom: 0%;
+
+}
+
+
+.botaoenviar{
+
+position: absolute;
+left: 363px;
+right: 0%;
+top: 561px;
+bottom: 0%;
+font-family: DM Sans;
+}
+
+
+/* Ebook: */
+
+/* Fortaleça seu negócio em época de coronavírus com o nosso e-book */
+
+/* Ebook: */
+
+
+
+
+/* Rectangle 2.1 */
+/* 
+position: absolute;
+width: 449px;
+height: 40px;
+left: 832px;
+top: 602px; */
+
+/* azul-escuro */
+/* border: 1px solid #021B51;
+box-sizing: border-box; */
+
+
+/* Seu Nome */
+
+/* position: absolute;
+width: 229.9px;
+height: 18px;
+left: 850.35px;
+top: 613px; */
+
+/* P1-B */
+/* font-family: 'DM Sans', sans-serif;
+font-style: normal;
+font-weight: bold;
+font-size: 14px;
+line-height: 18px; */
+
+/* cinza-claro-1 */
+/* color: #DADADA;
+ */
+
+/* Seu nome */
+
+/* position: absolute;
+width: 178.43px;
+height: 18px;
+left: 832px;
+top: 575px; */
+
+/* P1-B */
+/* font-family: 'DM Sans', sans-serif;
+font-style: normal;
+font-weight: bold;
+font-size: 14px;
+line-height: 18px; */
+
+/* azul-escuro */
+/* color: #021B51;
+ */
+
+/* Group 4.1 */
+
+/* position: absolute;
+width: 449px;
+height: 67px;
+left: 832px;
+top: 666px; */
+
+
+
+/* Rectangle 2.1 */
+
+/* position: absolute;
+width: 449px;
+height: 40px;
+left: 832px;
+top: 693px; */
+
+/* azul-escuro */
+/* border: 1px solid #021B51;
+box-sizing: border-box; */
+
+
+/* seuemail@dominio.com */
+
+/* position: absolute;
+width: 229.9px;
+height: 18px;
+left: 850.35px;
+top: 704px; */
+
+/* P1-B */
+/* font-family: 'DM Sans', sans-serif;
+font-style: normal;
+font-weight: bold;
+font-size: 14px;
+line-height: 18px; */
+
+/* cinza-claro-1 */
+/* color: #DADADA; */
+
+
+/* E-mail de trabalho */
+
+/* position: absolute;
+width: 223.92px;
+height: 18px;
+left: 832px;
+top: 595px; */
+
+
+.container2{
+  max-width: 8px;
+  margin-left: -2px;
+  margin-top:-4px;
+  color:#021b51}
+
+.selecione-box{
+    width: 425px;
+    
+}
+
+.selecione-box select{
+  border-radius:5px;
+  height: 42px;
+  padding: 10px 12px;
+  line-height:2px;
+  font-size:16px;
+  width:100%;
+  border:1px solid #021b51;
+  color:#bfbfbf;
+}
+
+.selecione-box::after{
+  content: "";
+  position: absolute;
+  right: 10px;
+  top: 50%;
+  margin-top:-5px;
+}
+
+.selecione-box select:focus{
+  border: 2px; 
+}
+
+
